@@ -1,0 +1,100 @@
+<html>   
+	<head><title>to do list</title>
+	<style>
+    		.done 
+		{
+      			text-decoration:line-through;
+      			color:yellow;
+			
+    		}
+    		ul 
+		{
+      			list-style:none;
+      			padding:0;
+    		}
+    		li 
+		{
+      			padding: 8px;
+      			background:grey;
+      			margin:5px 0;
+      			display:flex;
+      			justify-content:space-between;
+    		}
+    		button 
+		{
+      			margin-left:5px;
+    		}
+  	</style>
+	</head>
+	<body>  
+
+		<h2>TO DO LIST</h2>
+		<input type="text" id="input" placeholder="Enter a task"> 
+		<button id="adbtn">Add</button>
+		<ul id="list"></ul>
+
+		<script>
+			let task=[]; 						//javascript comment
+			let taskid=0;
+
+			const display=()=> {
+  				const list1=document.getElementById("list"); 
+  				list1.innerHTML=""; 
+
+  				task.forEach(t=> {
+    						const li = document.createElement("li");
+    						li.className=t.done?"done":"";
+    						li.innerHTML= `
+      								${t.text}
+      								<span>
+        								<button onclick="done(${t.id})">done</button>
+        								<button onclick="notdone(${t.id})">not done</button>
+									<button onclick="remove(${t.id})">remove</button>
+      								</span>
+    								`;
+    								list1.appendChild(li);
+  							});
+						};
+
+			const add=()=> {
+  						const input=document.getElementById("input");
+  						const text=input.value.trim();
+  						if (!text) 
+						{
+    							return;
+  						}
+
+  						task.push({ id:++taskid,text,done:false });
+  						input.value="";
+  						display();
+					};
+
+			const done=(taskId)=> {
+  							const t=task.find(item=>item.id===taskId);
+  							if (t) 
+							{
+    								t.done=true;
+    								display();
+  							}
+						};
+
+			const notdone=(taskId)=> 
+						{
+  							const t=task.find(item=>item.id===taskId);
+  							if (t) 
+								{
+    									t.done=false;
+    									display();
+  								}
+						};
+			const remove=(taskId)=> 
+						{
+  							task=task.filter(item => item.id !== taskId); 
+  							display(); 
+						};
+
+			document.getElementById("adbtn").addEventListener("click", add);
+		</script>
+
+</body>
+</html>

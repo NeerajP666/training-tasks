@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Basic Form Validation</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-image: url('images/form.jpg');
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: cover;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .formdiv {
+            border: 2px solid black;
+            padding: 10px;
+            background: white;
+        }
+    </style>
+</head>
+<body>
+    <div class="formdiv">
+        <form name="myForm" onsubmit="return validateForm()">
+            <label for="fname">FIRST NAME</label>
+            <input type="text" id="fname" placeholder="Enter your first name"><br><br>
+
+            <label for="lname">LAST NAME</label>
+            <input type="text" id="lname" placeholder="Enter your last name"><br><br>
+
+            <label for="email">EMAIL</label>
+            <input type="email" id="email" placeholder="Enter your email id"><br><br>
+
+            <label for="pass">PASSWORD</label>
+            <input type="password" id="pass" placeholder="Enter your password"><br><br>
+
+            <label>GENDER</label>
+            <input type="radio" id="male" name="gender">
+            <label for="male">Male</label>
+            <input type="radio" id="female" name="gender">
+            <label for="female">Female</label><br><br>
+
+            <label for="course">COURSE</label>
+            <select id="course" name="select">
+                <option selected disabled value="">Select courses</option>
+                <option>MCA</option>
+                <option>BCA</option>
+                <option>BTech</option>
+                <option>MTech</option>
+            </select><br><br>
+
+            <label>Electives</label><br>
+            <input type="checkbox" id="IOT">
+            <label for="IOT">IOT</label>
+            <input type="checkbox" id="AI">
+            <label for="AI">AI</label>
+            <input type="checkbox" id="cs">
+            <label for="cs">Cyber Security</label><br><br>
+
+            <input type="submit" value="Register">
+        </form>
+    </div>
+
+    <script>
+        function validateForm() 
+	{
+            let fname = document.getElementById("fname").value;
+            let lname = document.getElementById("lname").value;
+            let email = document.getElementById("email").value;
+            let pass = document.getElementById("pass").value;
+            let genderMale = document.getElementById("male").checked;
+            let genderFemale = document.getElementById("female").checked;
+            let course = document.getElementById("course").value;
+            let electives = document.getElementById("IOT").checked || document.getElementById("AI").checked || document.getElementById("cs").checked;
+
+            if(fname==""||lname==""||email==""||pass=="") 
+		{
+                	alert("Please fill all the fields.");
+                	return false;
+            	}
+
+            if (!genderMale && !genderFemale) 
+		{
+                	alert("Please select your gender.");
+                	return false;
+            	}
+
+            if (course == "") 
+		{
+                  	alert("Please select your course.");
+			console.log("Course:",course);
+                	return false;
+            	}
+
+            if (!electives) 
+		{
+                	alert("Please select at least one elective.");
+                	return false;
+            	}
+
+            alert("Form submitted successfully!");
+            return true;
+	   let emailPattern = /^[a-zA-Z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$/;
+		if (!emailPattern.test(email)) 
+		{
+    			alert("Please enter a valid email address.");
+    			return false;
+		}
+        }
+    </script>
+</body>
+</html>
