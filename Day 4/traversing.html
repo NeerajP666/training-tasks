@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>jQuery Traversing with Back Button</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <style>
+        
+        .highlight 
+	{
+            background-color: yellow;
+        }
+    </style>
+</head>
+<body>
+
+<h2>Email List</h2>
+<ul id="emailList">
+    <li>neeraj</li>
+    <li>anandhu</li>
+    <li>robin</li>
+    <li>aswin</li>
+    <li>kaiz</li>
+    <li>karthik</li>
+</ul>
+
+<button id="highlightChildren">Highlight Children</button>
+<button id="highlightSiblings">Highlight Siblings</button>
+<button id="highlightNext">Highlight Next</button>
+<button id="highlightParent">Highlight Parent</button>
+<button id="backButton">Back</button>
+
+<script>
+	$(document).ready(function() 
+	{
+		$("#highlightChildren").click(function() 
+		{
+        		$("#emailList").children().addClass("highlight");
+    		});
+
+    
+    		$("#highlightSiblings").click(function() 
+		{
+        		$("#emailList li:first").siblings().addClass("highlight");
+    		});
+
+   
+    		$("#highlightNext").click(function() 
+		{
+        		$("#emailList li:first").next().addClass("highlight");
+    		});
+
+   
+    		$("#highlightParent").click(function() 
+		{
+        		$("#emailList li:first").parent().css("border","2px solid red");
+    		});
+
+    
+		$("#backButton").click(function() 
+		{
+        		$("#emailList li").removeClass("highlight");
+        		$("#emailList").css("border","none");
+    		});
+	});
+</script>
+
+</body>
+</html>

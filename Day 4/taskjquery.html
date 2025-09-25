@@ -1,0 +1,132 @@
+<html>
+	<head>
+		<title>	
+			jquery
+		</title>
+		<style>
+			.blue 
+				{
+  					color: blue;
+				}
+		</style>
+		<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/handsontable/dist/handsontable.full.min.css">
+		<script src="https://cdn.jsdelivr.net/npm/handsontable/dist/handsontable.full.min.js"></script>
+
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jstree/3.3.12/themes/default/style.min.css" />
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jstree/3.3.12/jstree.min.js"></script>
+		
+		<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+	</head>
+	<body>
+		<h2>JQuery</h2>
+		<button class="btn">click here</button>
+	
+		<h2>1. Editable Table (Handsontable)</h2>
+		<div id="handsontable" style="width: 600px; height: 160px;"></div>
+		
+		<h2>2. Tree View </h2>
+    		<div id="tree"></div>
+
+		<h2>3. Chart </h2>
+    		<canvas id="myChart" style="width: 100px; height: 50px;"></canvas>
+		
+		<h2>4. Email Sorting Logic</h2>
+    		<ul id="emailList">
+        		<li>neeraj@gmail.com</li>
+        		<li>jaya@yahoo.com</li>
+        		<li>premchand@hotmail.com</li>
+        		<li>aswin@gmail.com</li>
+			<li>karthi@hotmail.com</li>
+			<li>anandhu@yahoo.com</li>
+    		</ul>
+		<button id="sortBtn">Sort Emails</button>
+		
+		
+
+		
+		<script>
+			$(document).ready(function()
+			{
+				var data=[
+						["Neeraj","167","80"],
+						["Premchand","159","65"],
+						["Jaya","158","60"]
+					 ];
+				var input=document.getElementById("handsontable");
+				var table=new Handsontable(input,{
+					data:data,
+					rowHeaders:["Name","Height","weight"],
+					colHeaders:true,
+					contextMenu:true
+				});
+				
+
+
+
+				$('#tree').jstree(
+				{
+                			'core': {
+                    				'data': [
+                        					{ 
+									"text": "Courses", 
+									"children": [
+                           								{ "text": "MCA" },
+                            								{ "text": "BTech" },
+                            								{ "text": "MTech" }
+                        							    ]
+								},
+                        					{ 
+									  "text": "Students", 	
+									  "children": [
+                          								 { "text": "Neeraj" },
+                            								 { "text": "Premchand" },
+                           								 { "text": "Jaya" }
+                        							       ]
+								}
+                    				       ]
+                				}
+            			});
+		
+
+				var c = document.getElementById('myChart').getContext('2d');
+				var myChart = new Chart(c, {
+							type: 'bar',
+							data: {
+								labels: ['MCA','BTech','MTech'],
+								datasets: [{
+            									label: 'Students',
+            									data: [12, 19, 7], 
+           									backgroundColor: ['red', 'blue', 'green']
+        								  }]
+								}
+							});
+				$('#sortBtn').click(function () 
+				{
+					var $list=$('#emailList');
+					var $items=$list.children('li').get();
+					$items.sort(function(a,b) 
+					{
+						var first=$(a).text().split("@")[1];
+            					var second=$(b).text().split("@")[1];
+						return first.localeCompare(second);
+					});
+					$.each($items,function(i,li) 
+					{
+            					$list.append(li);
+					});
+        			});
+				$(".btn").click(function()
+				{
+    					$("h2").addClass("blue");
+  				});
+			});
+			
+  
+	
+
+		</script>
+		
+	</body>
+</html>

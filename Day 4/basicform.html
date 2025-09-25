@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>basic form</title>
+<link rel="stylesheet" ref="formd.css">
+	<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+		<style>
+			body {
+    				font-family: Arial, sans-serif;
+    				background-image: url('images/form.jpg');
+				background-repeat: no-repeat;
+  				background-attachment: fixed;
+  				background-size: cover;
+    				display: flex;
+    				justify-content: center;
+    				align-items: center;
+    				height: 100vh;
+				}
+
+			input[type="text"],
+			input[type="email"],
+			input[type="password"],
+			select {
+   				width: 100%;
+  				padding: 8px 10px;
+    				margin-bottom: 15px;
+    				border: 1px solid #ccc;
+    				border-radius: 5px;
+    				box-sizing: border-box;
+    				font-size: 14px;
+				}
+
+			input[type="radio"],
+			input[type="checkbox"] 
+				{
+    				margin-right: 5px;
+				}
+
+
+		</style>
+		<script>
+			$(document).ready(function()
+			{
+            			$("#myForm").submit(function(event)
+				{
+                			event.preventDefault(); 
+
+                			let fname = $("#fname").val().trim();
+                			let lname = $("#lname").val().trim();
+                			let email = $("#email").val().trim();
+                			let pass = $("#pass").val().trim();
+                			let gender = $("input[name='gender']:checked").val();
+                			let course = $("#course").val();
+
+                			if(fname===""||lname===""||email===""||pass===""||!gender||course===null) 
+					{
+                    				alert("Please fill all required fields!");
+                    				return;
+                			}
+					$(".formdiv").animate({height: 'toggle'}); 
+
+                				alert("Form submitted and erased!");
+            			});
+        		});
+		</script>
+	
+	</head>
+	<body>
+		
+		
+		<div class="formdiv" style="border:2px solid black; padding:10px; ">
+			
+			<form id="myForm">
+				<label for="fname">FIRST NAME</label>
+					<input type="text" id="fname" placeholder="Enter your first name" ><br><br>
+				<label for="lname">LAST NAME</label>
+					<input type="text" id="lname" placeholder="Enter your last name"><br><br>
+				<label for="email">EMAIL</label>
+					<input type="email" id="email" placeholder="Enter your email id" ><br><br>
+				<label for="pass">PASSWORD</label>
+					<input type="password" id="pass" placeholder="Enter your password" ><br><br>
+
+				<label>GENDER</label>
+					<input type="radio" id="male" name="gender" >
+						<label for="male">Male</label>
+					<input type="radio" id="female" name="gender" >
+						<label for="female">Female</label><br><br>
+
+				<label for="course">COURSE</label>
+					<select id="course" name="select" >
+						<option selected disabled value="">Select courses</option>
+						<option>MCA</option>
+						<option>BCA</option>
+						<option>BTech</option>
+						<option>MTech</option>
+					</select><br><br>
+
+				<label>Electives</label><br>
+        				<input type="checkbox" id="IOT">
+        					<label for="IOT">IOT</label>
+        				<input type="checkbox" id="AI">
+        					<label for="AI">AI</label>
+        				<input type="checkbox" id="cs">
+        					<label for="cs">Cyber Security</label>
+        						<br><br>
+
+				<input type="submit" value="Register">
+			</form>
+		</div>
+
+	</body>
+</html>
