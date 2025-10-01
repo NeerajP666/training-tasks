@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Neeraj\\source\\repos\\WcfServiceLibrary2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{822049D8-9A49-4506-9181-8CA27CD06C5F}|WcfServiceLibrary2\\WcfServiceLibrary2.csproj|c:\\users\\neeraj\\source\\repos\\wcfservicelibrary2\\wcfservicelibrary2\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{822049D8-9A49-4506-9181-8CA27CD06C5F}|WcfServiceLibrary2\\WcfServiceLibrary2.csproj|solutionrelative:wcfservicelibrary2\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822049D8-9A49-4506-9181-8CA27CD06C5F}|WcfServiceLibrary2\\WcfServiceLibrary2.csproj|C:\\Users\\Neeraj\\source\\repos\\WcfServiceLibrary2\\wcfservicelibrary2\\basedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{822049D8-9A49-4506-9181-8CA27CD06C5F}|WcfServiceLibrary2\\WcfServiceLibrary2.csproj|solutionrelative:wcfservicelibrary2\\basedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822049D8-9A49-4506-9181-8CA27CD06C5F}|WcfServiceLibrary2\\WcfServiceLibrary2.csproj|c:\\users\\neeraj\\source\\repos\\wcfservicelibrary2\\wcfservicelibrary2\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{822049D8-9A49-4506-9181-8CA27CD06C5F}|WcfServiceLibrary2\\WcfServiceLibrary2.csproj|solutionrelative:wcfservicelibrary2\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822049D8-9A49-4506-9181-8CA27CD06C5F}|WcfServiceLibrary2\\WcfServiceLibrary2.csproj|C:\\Users\\Neeraj\\source\\repos\\WcfServiceLibrary2\\wcfservicelibrary2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{822049D8-9A49-4506-9181-8CA27CD06C5F}|WcfServiceLibrary2\\WcfServiceLibrary2.csproj|solutionrelative:wcfservicelibrary2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A0B135-605A-4A02-BA02-5CA16FF2F369}|WcfServiceHost\\WcfServiceHost.csproj|C:\\Users\\Neeraj\\source\\repos\\WcfServiceLibrary2\\wcfservicehost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A0B135-605A-4A02-BA02-5CA16FF2F369}|WcfServiceHost\\WcfServiceHost.csproj|solutionrelative:wcfservicehost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822049D8-9A49-4506-9181-8CA27CD06C5F}|WcfServiceLibrary2\\WcfServiceLibrary2.csproj|C:\\Users\\Neeraj\\source\\repos\\WcfServiceLibrary2\\wcfservicelibrary2\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{822049D8-9A49-4506-9181-8CA27CD06C5F}|WcfServiceLibrary2\\WcfServiceLibrary2.csproj|solutionrelative:wcfservicelibrary2\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822049D8-9A49-4506-9181-8CA27CD06C5F}|WcfServiceLibrary2\\WcfServiceLibrary2.csproj|C:\\Users\\Neeraj\\source\\repos\\WcfServiceLibrary2\\wcfservicelibrary2\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{822049D8-9A49-4506-9181-8CA27CD06C5F}|WcfServiceLibrary2\\WcfServiceLibrary2.csproj|solutionrelative:wcfservicelibrary2\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822049D8-9A49-4506-9181-8CA27CD06C5F}|WcfServiceLibrary2\\WcfServiceLibrary2.csproj|C:\\Users\\Neeraj\\source\\repos\\WcfServiceLibrary2\\wcfservicelibrary2\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{822049D8-9A49-4506-9181-8CA27CD06C5F}|WcfServiceLibrary2\\WcfServiceLibrary2.csproj|solutionrelative:wcfservicelibrary2\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\WcfServiceLibrary2\\WcfServiceLibrary2\\DataAccess.cs",
+              "RelativeDocumentMoniker": "WcfServiceLibrary2\\DataAccess.cs",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\WcfServiceLibrary2\\WcfServiceLibrary2\\DataAccess.cs",
+              "RelativeToolTip": "WcfServiceLibrary2\\DataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T05:13:53.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\WcfServiceLibrary2\\WcfServiceHost\\Program.cs",
+              "RelativeDocumentMoniker": "WcfServiceHost\\Program.cs",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\WcfServiceLibrary2\\WcfServiceHost\\Program.cs",
+              "RelativeToolTip": "WcfServiceHost\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T18:49:11.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\WcfServiceLibrary2\\WcfServiceLibrary2\\App.config",
+              "RelativeDocumentMoniker": "WcfServiceLibrary2\\App.config",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\WcfServiceLibrary2\\WcfServiceLibrary2\\App.config",
+              "RelativeToolTip": "WcfServiceLibrary2\\App.config",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAmwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-09-30T18:22:23.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\WcfServiceLibrary2\\WcfServiceLibrary2\\UserDAL.cs",
+              "RelativeDocumentMoniker": "WcfServiceLibrary2\\UserDAL.cs",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\WcfServiceLibrary2\\WcfServiceLibrary2\\UserDAL.cs",
+              "RelativeToolTip": "WcfServiceLibrary2\\UserDAL.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T16:10:07.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\WcfServiceLibrary2\\WcfServiceLibrary2\\BaseDAL.cs",
+              "RelativeDocumentMoniker": "WcfServiceLibrary2\\BaseDAL.cs",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\WcfServiceLibrary2\\WcfServiceLibrary2\\BaseDAL.cs",
+              "RelativeToolTip": "WcfServiceLibrary2\\BaseDAL.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T16:08:42.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\WcfServiceLibrary2\\WcfServiceLibrary2\\User.cs",
+              "RelativeDocumentMoniker": "WcfServiceLibrary2\\User.cs",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\WcfServiceLibrary2\\WcfServiceLibrary2\\User.cs",
+              "RelativeToolTip": "WcfServiceLibrary2\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T16:04:30.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Service1.cs",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\WcfServiceLibrary2\\WcfServiceLibrary2\\Service1.cs",
+              "RelativeDocumentMoniker": "WcfServiceLibrary2\\Service1.cs",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\WcfServiceLibrary2\\WcfServiceLibrary2\\Service1.cs",
+              "RelativeToolTip": "WcfServiceLibrary2\\Service1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T16:01:25.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IService1.cs",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\WcfServiceLibrary2\\WcfServiceLibrary2\\IService1.cs",
+              "RelativeDocumentMoniker": "WcfServiceLibrary2\\IService1.cs",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\WcfServiceLibrary2\\WcfServiceLibrary2\\IService1.cs",
+              "RelativeToolTip": "WcfServiceLibrary2\\IService1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T15:56:54.738Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
