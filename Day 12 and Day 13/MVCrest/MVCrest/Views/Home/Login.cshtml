@@ -1,0 +1,46 @@
+﻿@{
+    ViewBag.Title = "Login";
+}
+
+<h2>Login</h2>
+
+<form id="loginForm">
+    <label>Username:</label><br />
+    <input type="text" id="username" /><br />
+
+    <label>Password:</label><br />
+    <input type="password" id="password" /><br /><br />
+
+    <button type="button" id="btnLogin">Login</button>
+</form>
+
+<p id="message"></p>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script>
+    $("#btnLogin").click(function () {
+        var user = {
+            username: $("#username").val(),
+            password: $("#password").val()
+        };
+
+        $.ajax({
+            url: "http://localhost:52328/Service1.svc/Login", 
+            type: "POST",
+            data: JSON.stringify(user),
+            contentType: "application/json; charset=utf-8",
+            dataType: "json",
+            success: function (data) {
+                if (data) {
+                    $("#message").text("Login successful!");
+                    window.location.href = "/Home/Dashboard"; 
+                } else {
+                    $("#message").text("Invalid username or password!");
+                }
+            },
+            error: function (xhr, status, error) {
+                $("#message").text("Error: " + error);
+            }
+        });
+    });
+</script>

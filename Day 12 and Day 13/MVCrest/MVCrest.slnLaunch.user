@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "MVCrest\\MVCrest.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "WCFrestmvc\\WCFrestmvc.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

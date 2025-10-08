@@ -1,0 +1,49 @@
+﻿@{
+    ViewBag.Title = "Register";
+}
+
+<h2>Register</h2>
+
+<form id="registerForm">
+    <label>Username:</label><br />
+    <input type="text" id="username" /><br />
+
+    <label>Password:</label><br />
+    <input type="password" id="password" /><br />
+
+    <label>Email:</label><br />
+    <input type="text" id="email" /><br /><br />
+
+    <button type="button" id="btnRegister">Register</button>
+</form>
+
+<p id="message"></p>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script>
+    
+
+    $("#btnRegister").click(function () {
+        var user = {
+            username: $("#username").val(),
+            password: $("#password").val(),
+            email: $("#email").val()
+        };
+
+        $.ajax({
+            url: "http://localhost:52328/Service1.svc/Register",
+            type: "POST",
+            data: JSON.stringify(user),
+            contentType: "application/json; charset=utf-8",
+            dataType: "json",
+            success: function (data) {
+                $("#message").text(data ? "Registration successful!" : "Registration failed!");
+            },
+            error: function (xhr, status, error) {
+                console.error(xhr.responseText);
+                $("#message").text("Error: " + xhr.status + " - " + error);
+            }
+        });
+    });
+
+</script>
