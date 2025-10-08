@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Neeraj\\source\\repos\\MVCDashboardApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C10750E-6DDF-4557-82E8-CB1DCAC2DCFE}|MVCDashboardApp\\MVCDashboardApp.csproj|c:\\users\\neeraj\\source\\repos\\mvcdashboardapp\\mvcdashboardapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C10750E-6DDF-4557-82E8-CB1DCAC2DCFE}|MVCDashboardApp\\MVCDashboardApp.csproj|solutionrelative:mvcdashboardapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C10750E-6DDF-4557-82E8-CB1DCAC2DCFE}|MVCDashboardApp\\MVCDashboardApp.csproj|c:\\users\\neeraj\\source\\repos\\mvcdashboardapp\\mvcdashboardapp\\helpers\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C10750E-6DDF-4557-82E8-CB1DCAC2DCFE}|MVCDashboardApp\\MVCDashboardApp.csproj|solutionrelative:mvcdashboardapp\\helpers\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C10750E-6DDF-4557-82E8-CB1DCAC2DCFE}|MVCDashboardApp\\MVCDashboardApp.csproj|c:\\users\\neeraj\\source\\repos\\mvcdashboardapp\\mvcdashboardapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C10750E-6DDF-4557-82E8-CB1DCAC2DCFE}|MVCDashboardApp\\MVCDashboardApp.csproj|solutionrelative:mvcdashboardapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C10750E-6DDF-4557-82E8-CB1DCAC2DCFE}|MVCDashboardApp\\MVCDashboardApp.csproj|c:\\users\\neeraj\\source\\repos\\mvcdashboardapp\\mvcdashboardapp\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5C10750E-6DDF-4557-82E8-CB1DCAC2DCFE}|MVCDashboardApp\\MVCDashboardApp.csproj|solutionrelative:mvcdashboardapp\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C10750E-6DDF-4557-82E8-CB1DCAC2DCFE}|MVCDashboardApp\\MVCDashboardApp.csproj|c:\\users\\neeraj\\source\\repos\\mvcdashboardapp\\mvcdashboardapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C10750E-6DDF-4557-82E8-CB1DCAC2DCFE}|MVCDashboardApp\\MVCDashboardApp.csproj|solutionrelative:mvcdashboardapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C10750E-6DDF-4557-82E8-CB1DCAC2DCFE}|MVCDashboardApp\\MVCDashboardApp.csproj|c:\\users\\neeraj\\source\\repos\\mvcdashboardapp\\mvcdashboardapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C10750E-6DDF-4557-82E8-CB1DCAC2DCFE}|MVCDashboardApp\\MVCDashboardApp.csproj|solutionrelative:mvcdashboardapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C10750E-6DDF-4557-82E8-CB1DCAC2DCFE}|MVCDashboardApp\\MVCDashboardApp.csproj|c:\\users\\neeraj\\source\\repos\\mvcdashboardapp\\mvcdashboardapp\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C10750E-6DDF-4557-82E8-CB1DCAC2DCFE}|MVCDashboardApp\\MVCDashboardApp.csproj|solutionrelative:mvcdashboardapp\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C10750E-6DDF-4557-82E8-CB1DCAC2DCFE}|MVCDashboardApp\\MVCDashboardApp.csproj|c:\\users\\neeraj\\source\\repos\\mvcdashboardapp\\mvcdashboardapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C10750E-6DDF-4557-82E8-CB1DCAC2DCFE}|MVCDashboardApp\\MVCDashboardApp.csproj|solutionrelative:mvcdashboardapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C10750E-6DDF-4557-82E8-CB1DCAC2DCFE}|MVCDashboardApp\\MVCDashboardApp.csproj|c:\\users\\neeraj\\source\\repos\\mvcdashboardapp\\mvcdashboardapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5C10750E-6DDF-4557-82E8-CB1DCAC2DCFE}|MVCDashboardApp\\MVCDashboardApp.csproj|solutionrelative:mvcdashboardapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C10750E-6DDF-4557-82E8-CB1DCAC2DCFE}|MVCDashboardApp\\MVCDashboardApp.csproj|c:\\users\\neeraj\\source\\repos\\mvcdashboardapp\\mvcdashboardapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C10750E-6DDF-4557-82E8-CB1DCAC2DCFE}|MVCDashboardApp\\MVCDashboardApp.csproj|solutionrelative:mvcdashboardapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\MVCDashboardApp\\MVCDashboardApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCDashboardApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\MVCDashboardApp\\MVCDashboardApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVCDashboardApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T12:17:05.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\MVCDashboardApp\\MVCDashboardApp\\Views\\Web.config",
+              "RelativeDocumentMoniker": "MVCDashboardApp\\Views\\Web.config",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\MVCDashboardApp\\MVCDashboardApp\\Views\\Web.config",
+              "RelativeToolTip": "MVCDashboardApp\\Views\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-08T12:06:01.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\MVCDashboardApp\\MVCDashboardApp\\Views\\Home\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "MVCDashboardApp\\Views\\Home\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\MVCDashboardApp\\MVCDashboardApp\\Views\\Home\\Dashboard.cshtml",
+              "RelativeToolTip": "MVCDashboardApp\\Views\\Home\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T08:11:59.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\MVCDashboardApp\\MVCDashboardApp\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "MVCDashboardApp\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\MVCDashboardApp\\MVCDashboardApp\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "MVCDashboardApp\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T08:11:15.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\MVCDashboardApp\\MVCDashboardApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "MVCDashboardApp\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\MVCDashboardApp\\MVCDashboardApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "MVCDashboardApp\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwDYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T08:08:59.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\MVCDashboardApp\\MVCDashboardApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVCDashboardApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\MVCDashboardApp\\MVCDashboardApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVCDashboardApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T08:07:41.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\MVCDashboardApp\\MVCDashboardApp\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "MVCDashboardApp\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\MVCDashboardApp\\MVCDashboardApp\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "MVCDashboardApp\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T08:10:46.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EncryptionHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\MVCDashboardApp\\MVCDashboardApp\\Helpers\\EncryptionHelper.cs",
+              "RelativeDocumentMoniker": "MVCDashboardApp\\Helpers\\EncryptionHelper.cs",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\MVCDashboardApp\\MVCDashboardApp\\Helpers\\EncryptionHelper.cs",
+              "RelativeToolTip": "MVCDashboardApp\\Helpers\\EncryptionHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T08:07:06.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\MVCDashboardApp\\MVCDashboardApp\\Web.config",
+              "RelativeDocumentMoniker": "MVCDashboardApp\\Web.config",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\MVCDashboardApp\\MVCDashboardApp\\Web.config",
+              "RelativeToolTip": "MVCDashboardApp\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-08T08:19:44.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\MVCDashboardApp\\MVCDashboardApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "MVCDashboardApp\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\MVCDashboardApp\\MVCDashboardApp\\Models\\User.cs",
+              "RelativeToolTip": "MVCDashboardApp\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T07:37:34.515Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
