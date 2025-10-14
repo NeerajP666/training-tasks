@@ -1,0 +1,54 @@
+﻿@model CRUD1.Models.User
+@{
+    ViewBag.Title = "Register";
+}
+
+<h2>Register</h2>
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <p>@Html.LabelFor(m => m.Name) @Html.TextBoxFor(m => m.Name)</p>
+    <p>@Html.LabelFor(m => m.Email) @Html.TextBoxFor(m => m.Email)</p>
+    <p>@Html.LabelFor(m => m.Password) @Html.PasswordFor(m => m.Password)</p>
+    <p>@Html.LabelFor(m => m.Age) @Html.TextBoxFor(m => m.Age)</p>
+    <p>@Html.LabelFor(m => m.City) @Html.TextBoxFor(m => m.City)</p>
+
+
+    <div class="form-group">
+        <label>Gender</label><br />
+        @Html.RadioButtonFor(m => m.Gender, "Male") Male
+        @Html.RadioButtonFor(m => m.Gender, "Female") Female
+    </div>
+
+    <div class="form-group">
+        @Html.CheckBoxFor(m => m.IsAgree)
+        <label>I agree to the terms and conditions</label>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Profession)
+        @Html.DropDownListFor(m => m.Profession, new List<SelectListItem>
+        {
+            new SelectListItem { Text = "Student", Value = "Student" },
+            new SelectListItem { Text = "Engineer", Value = "Engineer" },
+            new SelectListItem { Text = "Doctor", Value = "Doctor" },
+            new SelectListItem { Text = "Other", Value = "Other" }
+        }, "Select Profession", new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.AboutMe)
+        @Html.TextAreaFor(m => m.AboutMe, new { @class = "form-control", rows = 4, placeholder = "Tell us about yourself" })
+    </div>
+
+
+
+
+
+    <button type="submit">Register</button>
+
+    <p>@ViewBag.Error</p>
+}
+

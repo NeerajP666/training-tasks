@@ -1,0 +1,35 @@
+﻿@model List<CRUD1.Models.User>
+@{
+    ViewBag.Title = "All Users";
+}
+
+<h2>All Registered Users</h2>
+
+<table border="1" cellpadding="5">
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Email</th>
+        <th>Age</th>
+        <th>City</th>
+        <th>Gender</th>
+        <th>Profession</th>
+        <th>Actions</th>
+    </tr>
+    @foreach (var user in Model)
+    {
+        <tr>
+            <td>@user.Id</td>
+            <td>@user.Name</td>
+            <td>@user.Email</td>
+            <td>@user.Age</td>
+            <td>@user.City</td>
+            <td>@user.Gender</td>
+            <td>@user.Profession</td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = user.Id }) |
+                @Html.ActionLink("Delete", "DeleteUser", new { id = user.Id }, new { @class = "text-danger" })
+            </td>
+        </tr>
+    }
+</table>

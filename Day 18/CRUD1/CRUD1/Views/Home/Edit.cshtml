@@ -1,0 +1,42 @@
+﻿@model CRUD1.Models.User
+@{
+    ViewBag.Title = "Edit Profile";
+}
+<h2>Edit Profile</h2>
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    @Html.HiddenFor(m => m.Id)
+
+    <p>@Html.LabelFor(m => m.Name) @Html.TextBoxFor(m => m.Name)</p>
+    <p>@Html.LabelFor(m => m.Email) @Html.TextBoxFor(m => m.Email)</p>
+    <p>@Html.LabelFor(m => m.Age) @Html.TextBoxFor(m => m.Age)</p>
+    <p>@Html.LabelFor(m => m.City) @Html.TextBoxFor(m => m.City)</p>
+    <p>
+        <label>Gender</label><br />
+        @Html.RadioButtonFor(m => m.Gender, "Male", Model.Gender == "Male" ? new { @checked = "checked" } : null) Male
+        @Html.RadioButtonFor(m => m.Gender, "Female", Model.Gender == "Female" ? new { @checked = "checked" } : null) Female
+    </p>
+    <p>
+        @Html.CheckBoxFor(m => m.IsAgree)
+        <label>I agree to the terms and conditions</label>
+    </p>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Profession)
+        @Html.DropDownListFor(m => m.Profession, new List<SelectListItem>
+        {
+            new SelectListItem { Text = "Student", Value = "Student" },
+            new SelectListItem { Text = "Engineer", Value = "Engineer" },
+            new SelectListItem { Text = "Doctor", Value = "Doctor" },
+            new SelectListItem { Text = "Other", Value = "Other" }
+        }, "Select Profession", new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.AboutMe)
+        @Html.TextAreaFor(m => m.AboutMe, new { @class = "form-control", rows = 4 })
+    </div>
+
+    <button type="submit">Save Changes</button>
+}
