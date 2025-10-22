@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Neeraj\\source\\repos\\LibraryManagementApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F41E7E6-5A65-4AAD-B0F2-D6810D685C2F}|LibraryManagementApi\\LibraryManagementApi.csproj|c:\\users\\neeraj\\source\\repos\\librarymanagementapi\\librarymanagementapi\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F41E7E6-5A65-4AAD-B0F2-D6810D685C2F}|LibraryManagementApi\\LibraryManagementApi.csproj|solutionrelative:librarymanagementapi\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F41E7E6-5A65-4AAD-B0F2-D6810D685C2F}|LibraryManagementApi\\LibraryManagementApi.csproj|c:\\users\\neeraj\\source\\repos\\librarymanagementapi\\librarymanagementapi\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F41E7E6-5A65-4AAD-B0F2-D6810D685C2F}|LibraryManagementApi\\LibraryManagementApi.csproj|solutionrelative:librarymanagementapi\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F41E7E6-5A65-4AAD-B0F2-D6810D685C2F}|LibraryManagementApi\\LibraryManagementApi.csproj|c:\\users\\neeraj\\source\\repos\\librarymanagementapi\\librarymanagementapi\\dtos\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F41E7E6-5A65-4AAD-B0F2-D6810D685C2F}|LibraryManagementApi\\LibraryManagementApi.csproj|solutionrelative:librarymanagementapi\\dtos\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F41E7E6-5A65-4AAD-B0F2-D6810D685C2F}|LibraryManagementApi\\LibraryManagementApi.csproj|c:\\users\\neeraj\\source\\repos\\librarymanagementapi\\librarymanagementapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F41E7E6-5A65-4AAD-B0F2-D6810D685C2F}|LibraryManagementApi\\LibraryManagementApi.csproj|solutionrelative:librarymanagementapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F41E7E6-5A65-4AAD-B0F2-D6810D685C2F}|LibraryManagementApi\\LibraryManagementApi.csproj|c:\\users\\neeraj\\source\\repos\\librarymanagementapi\\librarymanagementapi\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F41E7E6-5A65-4AAD-B0F2-D6810D685C2F}|LibraryManagementApi\\LibraryManagementApi.csproj|solutionrelative:librarymanagementapi\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F41E7E6-5A65-4AAD-B0F2-D6810D685C2F}|LibraryManagementApi\\LibraryManagementApi.csproj|c:\\users\\neeraj\\source\\repos\\librarymanagementapi\\librarymanagementapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F41E7E6-5A65-4AAD-B0F2-D6810D685C2F}|LibraryManagementApi\\LibraryManagementApi.csproj|solutionrelative:librarymanagementapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F41E7E6-5A65-4AAD-B0F2-D6810D685C2F}|LibraryManagementApi\\LibraryManagementApi.csproj|c:\\users\\neeraj\\source\\repos\\librarymanagementapi\\librarymanagementapi\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F41E7E6-5A65-4AAD-B0F2-D6810D685C2F}|LibraryManagementApi\\LibraryManagementApi.csproj|solutionrelative:librarymanagementapi\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F41E7E6-5A65-4AAD-B0F2-D6810D685C2F}|LibraryManagementApi\\LibraryManagementApi.csproj|c:\\users\\neeraj\\source\\repos\\librarymanagementapi\\librarymanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F41E7E6-5A65-4AAD-B0F2-D6810D685C2F}|LibraryManagementApi\\LibraryManagementApi.csproj|solutionrelative:librarymanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F41E7E6-5A65-4AAD-B0F2-D6810D685C2F}|LibraryManagementApi\\LibraryManagementApi.csproj|c:\\users\\neeraj\\source\\repos\\librarymanagementapi\\librarymanagementapi\\dtos\\memberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F41E7E6-5A65-4AAD-B0F2-D6810D685C2F}|LibraryManagementApi\\LibraryManagementApi.csproj|solutionrelative:librarymanagementapi\\dtos\\memberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F41E7E6-5A65-4AAD-B0F2-D6810D685C2F}|LibraryManagementApi\\LibraryManagementApi.csproj|c:\\users\\neeraj\\source\\repos\\librarymanagementapi\\librarymanagementapi\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F41E7E6-5A65-4AAD-B0F2-D6810D685C2F}|LibraryManagementApi\\LibraryManagementApi.csproj|solutionrelative:librarymanagementapi\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F41E7E6-5A65-4AAD-B0F2-D6810D685C2F}|LibraryManagementApi\\LibraryManagementApi.csproj|c:\\users\\neeraj\\source\\repos\\librarymanagementapi\\librarymanagementapi\\dtos\\bookcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F41E7E6-5A65-4AAD-B0F2-D6810D685C2F}|LibraryManagementApi\\LibraryManagementApi.csproj|solutionrelative:librarymanagementapi\\dtos\\bookcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F41E7E6-5A65-4AAD-B0F2-D6810D685C2F}|LibraryManagementApi\\LibraryManagementApi.csproj|c:\\users\\neeraj\\source\\repos\\librarymanagementapi\\librarymanagementapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F41E7E6-5A65-4AAD-B0F2-D6810D685C2F}|LibraryManagementApi\\LibraryManagementApi.csproj|solutionrelative:librarymanagementapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F41E7E6-5A65-4AAD-B0F2-D6810D685C2F}|LibraryManagementApi\\LibraryManagementApi.csproj|c:\\users\\neeraj\\source\\repos\\librarymanagementapi\\librarymanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6F41E7E6-5A65-4AAD-B0F2-D6810D685C2F}|LibraryManagementApi\\LibraryManagementApi.csproj|solutionrelative:librarymanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F41E7E6-5A65-4AAD-B0F2-D6810D685C2F}|LibraryManagementApi\\LibraryManagementApi.csproj|c:\\users\\neeraj\\source\\repos\\librarymanagementapi\\librarymanagementapi\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F41E7E6-5A65-4AAD-B0F2-D6810D685C2F}|LibraryManagementApi\\LibraryManagementApi.csproj|solutionrelative:librarymanagementapi\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F41E7E6-5A65-4AAD-B0F2-D6810D685C2F}|LibraryManagementApi\\LibraryManagementApi.csproj|c:\\users\\neeraj\\source\\repos\\librarymanagementapi\\librarymanagementapi\\migrations\\20251018081857_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F41E7E6-5A65-4AAD-B0F2-D6810D685C2F}|LibraryManagementApi\\LibraryManagementApi.csproj|solutionrelative:librarymanagementapi\\migrations\\20251018081857_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F41E7E6-5A65-4AAD-B0F2-D6810D685C2F}|LibraryManagementApi\\LibraryManagementApi.csproj|c:\\users\\neeraj\\source\\repos\\librarymanagementapi\\librarymanagementapi\\librarymanagementapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6F41E7E6-5A65-4AAD-B0F2-D6810D685C2F}|LibraryManagementApi\\LibraryManagementApi.csproj|solutionrelative:librarymanagementapi\\librarymanagementapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\LibraryManagementApi\\LibraryManagementApi\\appsettings.json",
+              "RelativeDocumentMoniker": "LibraryManagementApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\LibraryManagementApi\\LibraryManagementApi\\appsettings.json",
+              "RelativeToolTip": "LibraryManagementApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-18T08:15:20.784Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\LibraryManagementApi\\LibraryManagementApi\\DTOs\\AuthorDTO.cs",
+              "RelativeDocumentMoniker": "LibraryManagementApi\\DTOs\\AuthorDTO.cs",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\LibraryManagementApi\\LibraryManagementApi\\DTOs\\AuthorDTO.cs",
+              "RelativeToolTip": "LibraryManagementApi\\DTOs\\AuthorDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T08:21:11.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\LibraryManagementApi\\LibraryManagementApi\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "LibraryManagementApi\\Models\\Author.cs",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\LibraryManagementApi\\LibraryManagementApi\\Models\\Author.cs",
+              "RelativeToolTip": "LibraryManagementApi\\Models\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T07:58:22.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\LibraryManagementApi\\LibraryManagementApi\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryManagementApi\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\LibraryManagementApi\\LibraryManagementApi\\Models\\Book.cs",
+              "RelativeToolTip": "LibraryManagementApi\\Models\\Book.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T07:59:55.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\LibraryManagementApi\\LibraryManagementApi\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "LibraryManagementApi\\Controllers\\AuthorsController.cs",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\LibraryManagementApi\\LibraryManagementApi\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "LibraryManagementApi\\Controllers\\AuthorsController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwD8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T08:23:01.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\LibraryManagementApi\\LibraryManagementApi\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagementApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\LibraryManagementApi\\LibraryManagementApi\\Program.cs",
+              "RelativeToolTip": "LibraryManagementApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T08:17:48.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\LibraryManagementApi\\LibraryManagementApi\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "LibraryManagementApi\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\LibraryManagementApi\\LibraryManagementApi\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "LibraryManagementApi\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T08:24:51.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MembersController.cs",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\LibraryManagementApi\\LibraryManagementApi\\Controllers\\MembersController.cs",
+              "RelativeDocumentMoniker": "LibraryManagementApi\\Controllers\\MembersController.cs",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\LibraryManagementApi\\LibraryManagementApi\\Controllers\\MembersController.cs",
+              "RelativeToolTip": "LibraryManagementApi\\Controllers\\MembersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T08:24:07.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\LibraryManagementApi\\LibraryManagementApi\\DTOs\\BookDTO.cs",
+              "RelativeDocumentMoniker": "LibraryManagementApi\\DTOs\\BookDTO.cs",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\LibraryManagementApi\\LibraryManagementApi\\DTOs\\BookDTO.cs",
+              "RelativeToolTip": "LibraryManagementApi\\DTOs\\BookDTO.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T08:22:19.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MemberDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\LibraryManagementApi\\LibraryManagementApi\\DTOs\\MemberDTO.cs",
+              "RelativeDocumentMoniker": "LibraryManagementApi\\DTOs\\MemberDTO.cs",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\LibraryManagementApi\\LibraryManagementApi\\DTOs\\MemberDTO.cs",
+              "RelativeToolTip": "LibraryManagementApi\\DTOs\\MemberDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T08:21:40.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\LibraryManagementApi\\LibraryManagementApi\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "LibraryManagementApi\\Models\\Member.cs",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\LibraryManagementApi\\LibraryManagementApi\\Models\\Member.cs",
+              "RelativeToolTip": "LibraryManagementApi\\Models\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T07:59:26.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\LibraryManagementApi\\LibraryManagementApi\\DTOs\\BookCreateDTO.cs",
+              "RelativeDocumentMoniker": "LibraryManagementApi\\DTOs\\BookCreateDTO.cs",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\LibraryManagementApi\\LibraryManagementApi\\DTOs\\BookCreateDTO.cs",
+              "RelativeToolTip": "LibraryManagementApi\\DTOs\\BookCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T10:07:16.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\LibraryManagementApi\\LibraryManagementApi\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "LibraryManagementApi\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\LibraryManagementApi\\LibraryManagementApi\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "LibraryManagementApi\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T08:17:23.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\LibraryManagementApi\\LibraryManagementApi\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "LibraryManagementApi\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\LibraryManagementApi\\LibraryManagementApi\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "LibraryManagementApi\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T07:38:10.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20251018081857_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\LibraryManagementApi\\LibraryManagementApi\\Migrations\\20251018081857_InitialCreate.cs",
+              "RelativeDocumentMoniker": "LibraryManagementApi\\Migrations\\20251018081857_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\LibraryManagementApi\\LibraryManagementApi\\Migrations\\20251018081857_InitialCreate.cs",
+              "RelativeToolTip": "LibraryManagementApi\\Migrations\\20251018081857_InitialCreate.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T08:18:58.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LibraryManagementApi.csproj",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\LibraryManagementApi\\LibraryManagementApi\\LibraryManagementApi.csproj",
+              "RelativeDocumentMoniker": "LibraryManagementApi\\LibraryManagementApi.csproj",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\LibraryManagementApi\\LibraryManagementApi\\LibraryManagementApi.csproj",
+              "RelativeToolTip": "LibraryManagementApi\\LibraryManagementApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-18T08:20:47.09Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
