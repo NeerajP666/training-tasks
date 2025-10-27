@@ -1,0 +1,96 @@
+﻿<h2>Employee Management</h2>
+
+<div>
+    <input type="text" id="name" placeholder="Name">
+    <input type="text" id="position" placeholder="Position">
+    <input type="number" id="salary" placeholder="Salary">
+    <button id="addBtn">Add Employee</button>
+</div>
+
+<hr>
+
+<table border="1" id="empTable" cellpadding="5">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Position</th>
+            <th>Salary</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody></tbody>
+</table>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    function loadEmployees() {
+        $.get('/Employee/GetAll', function(data) {
+            let rows = '';
+            data.forEach(emp => {
+                rows += `
+                <tr>
+                    <td>${emp.id}</td>
+                    <td><input value="${emp.name}" data-id="${emp.id}" class="name"></td>
+                    <td><input value="${emp.position}" data-id="${emp.id}" class="position"></td>
+                    <td><input value="${emp.salary}" data-id="${emp.id}" class="salary"></td>
+                    <td>
+                        <button onclick="updateEmp(${emp.id})">Update</button>
+                        <button onclick="deleteEmp(${emp.id})">Delete</button>
+                    </td>
+                </tr>`;
+            });
+            $('#empTable tbody').html(rows);
+        });
+    }
+
+    $('#addBtn').click(function() {
+        var data = {
+            Name: $('#name').val(),
+            Position: $('#position').val(),
+            Salary: $('#salary').val()
+        };
+        $.ajax({
+            url: '/Employee/Add',
+            method: 'POST',
+            contentType: 'application/json',
+            data: JSON.stringify(data),
+            success: function(res) {
+                alert(res.message);
+                loadEmployees();
+            }
+        });
+    });
+
+    function updateEmp(id) {
+        var data = {
+            Id: id,
+            Name: $(`.name[data-id=${id}]`).val(),
+            Position: $(`.position[data-id=${id}]`).val(),
+            Salary: $(`.salary[data-id=${id}]`).val()
+        };
+        $.ajax({
+            url: '/Employee/Update',
+            method: 'PUT',
+            contentType: 'application/json',
+            data: JSON.stringify(data),
+            success: function(res) {
+                alert(res.message);
+                loadEmployees();
+            }
+        });
+    }
+
+    function deleteEmp(id) {
+        $.ajax({
+            url: '/Employee/Delete?id=' + id,
+            method: 'DELETE',
+            success: function(res) {
+                alert(res.message);
+                loadEmployees();
+            }
+        });
+    }
+
+    $(document).ready(loadEmployees);
+</script>

@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Neeraj\\source\\repos\\AjaxAuthDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C9C90A-753D-47AC-B3C3-448703A75EAD}|AjaxAuthDemo\\AjaxAuthDemo.csproj|c:\\users\\neeraj\\source\\repos\\ajaxauthdemo\\ajaxauthdemo\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9C9C90A-753D-47AC-B3C3-448703A75EAD}|AjaxAuthDemo\\AjaxAuthDemo.csproj|solutionrelative:ajaxauthdemo\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C9C90A-753D-47AC-B3C3-448703A75EAD}|AjaxAuthDemo\\AjaxAuthDemo.csproj|c:\\users\\neeraj\\source\\repos\\ajaxauthdemo\\ajaxauthdemo\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9C9C90A-753D-47AC-B3C3-448703A75EAD}|AjaxAuthDemo\\AjaxAuthDemo.csproj|solutionrelative:ajaxauthdemo\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C9C90A-753D-47AC-B3C3-448703A75EAD}|AjaxAuthDemo\\AjaxAuthDemo.csproj|c:\\users\\neeraj\\source\\repos\\ajaxauthdemo\\ajaxauthdemo\\views\\home\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9C9C90A-753D-47AC-B3C3-448703A75EAD}|AjaxAuthDemo\\AjaxAuthDemo.csproj|solutionrelative:ajaxauthdemo\\views\\home\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C9C90A-753D-47AC-B3C3-448703A75EAD}|AjaxAuthDemo\\AjaxAuthDemo.csproj|c:\\users\\neeraj\\source\\repos\\ajaxauthdemo\\ajaxauthdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9C9C90A-753D-47AC-B3C3-448703A75EAD}|AjaxAuthDemo\\AjaxAuthDemo.csproj|solutionrelative:ajaxauthdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C9C90A-753D-47AC-B3C3-448703A75EAD}|AjaxAuthDemo\\AjaxAuthDemo.csproj|c:\\users\\neeraj\\source\\repos\\ajaxauthdemo\\ajaxauthdemo\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9C9C90A-753D-47AC-B3C3-448703A75EAD}|AjaxAuthDemo\\AjaxAuthDemo.csproj|solutionrelative:ajaxauthdemo\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C9C90A-753D-47AC-B3C3-448703A75EAD}|AjaxAuthDemo\\AjaxAuthDemo.csproj|c:\\users\\neeraj\\source\\repos\\ajaxauthdemo\\ajaxauthdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9C9C90A-753D-47AC-B3C3-448703A75EAD}|AjaxAuthDemo\\AjaxAuthDemo.csproj|solutionrelative:ajaxauthdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C9C90A-753D-47AC-B3C3-448703A75EAD}|AjaxAuthDemo\\AjaxAuthDemo.csproj|c:\\users\\neeraj\\source\\repos\\ajaxauthdemo\\ajaxauthdemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9C9C90A-753D-47AC-B3C3-448703A75EAD}|AjaxAuthDemo\\AjaxAuthDemo.csproj|solutionrelative:ajaxauthdemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C9C90A-753D-47AC-B3C3-448703A75EAD}|AjaxAuthDemo\\AjaxAuthDemo.csproj|c:\\users\\neeraj\\source\\repos\\ajaxauthdemo\\ajaxauthdemo\\migrations\\20251027072720_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9C9C90A-753D-47AC-B3C3-448703A75EAD}|AjaxAuthDemo\\AjaxAuthDemo.csproj|solutionrelative:ajaxauthdemo\\migrations\\20251027072720_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C9C90A-753D-47AC-B3C3-448703A75EAD}|AjaxAuthDemo\\AjaxAuthDemo.csproj|c:\\users\\neeraj\\source\\repos\\ajaxauthdemo\\ajaxauthdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A9C9C90A-753D-47AC-B3C3-448703A75EAD}|AjaxAuthDemo\\AjaxAuthDemo.csproj|solutionrelative:ajaxauthdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C9C90A-753D-47AC-B3C3-448703A75EAD}|AjaxAuthDemo\\AjaxAuthDemo.csproj|c:\\users\\neeraj\\source\\repos\\ajaxauthdemo\\ajaxauthdemo\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9C9C90A-753D-47AC-B3C3-448703A75EAD}|AjaxAuthDemo\\AjaxAuthDemo.csproj|solutionrelative:ajaxauthdemo\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C9C90A-753D-47AC-B3C3-448703A75EAD}|AjaxAuthDemo\\AjaxAuthDemo.csproj|c:\\users\\neeraj\\source\\repos\\ajaxauthdemo\\ajaxauthdemo\\ajaxauthdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A9C9C90A-753D-47AC-B3C3-448703A75EAD}|AjaxAuthDemo\\AjaxAuthDemo.csproj|solutionrelative:ajaxauthdemo\\ajaxauthdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C9C90A-753D-47AC-B3C3-448703A75EAD}|AjaxAuthDemo\\AjaxAuthDemo.csproj|c:\\users\\neeraj\\source\\repos\\ajaxauthdemo\\ajaxauthdemo\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9C9C90A-753D-47AC-B3C3-448703A75EAD}|AjaxAuthDemo\\AjaxAuthDemo.csproj|solutionrelative:ajaxauthdemo\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Welcome.cshtml",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\AjaxAuthDemo\\AjaxAuthDemo\\Views\\Home\\Welcome.cshtml",
+              "RelativeDocumentMoniker": "AjaxAuthDemo\\Views\\Home\\Welcome.cshtml",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\AjaxAuthDemo\\AjaxAuthDemo\\Views\\Home\\Welcome.cshtml",
+              "RelativeToolTip": "AjaxAuthDemo\\Views\\Home\\Welcome.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-27T09:41:43.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\AjaxAuthDemo\\AjaxAuthDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AjaxAuthDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\AjaxAuthDemo\\AjaxAuthDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AjaxAuthDemo\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T09:31:45.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\AjaxAuthDemo\\AjaxAuthDemo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AjaxAuthDemo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\AjaxAuthDemo\\AjaxAuthDemo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AjaxAuthDemo\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-27T09:30:55.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\AjaxAuthDemo\\AjaxAuthDemo\\Views\\Auth\\Register.cshtml",
+              "RelativeDocumentMoniker": "AjaxAuthDemo\\Views\\Auth\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\AjaxAuthDemo\\AjaxAuthDemo\\Views\\Auth\\Register.cshtml",
+              "RelativeToolTip": "AjaxAuthDemo\\Views\\Auth\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-27T09:29:38.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\AjaxAuthDemo\\AjaxAuthDemo\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "AjaxAuthDemo\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\AjaxAuthDemo\\AjaxAuthDemo\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "AjaxAuthDemo\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-27T09:28:13.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\AjaxAuthDemo\\AjaxAuthDemo\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AjaxAuthDemo\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\AjaxAuthDemo\\AjaxAuthDemo\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "AjaxAuthDemo\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAADwvzIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T07:28:16.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20251027072720_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\AjaxAuthDemo\\AjaxAuthDemo\\Migrations\\20251027072720_InitialCreate.cs",
+              "RelativeDocumentMoniker": "AjaxAuthDemo\\Migrations\\20251027072720_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\AjaxAuthDemo\\AjaxAuthDemo\\Migrations\\20251027072720_InitialCreate.cs",
+              "RelativeToolTip": "AjaxAuthDemo\\Migrations\\20251027072720_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T07:27:20.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\AjaxAuthDemo\\AjaxAuthDemo\\Program.cs",
+              "RelativeDocumentMoniker": "AjaxAuthDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\AjaxAuthDemo\\AjaxAuthDemo\\Program.cs",
+              "RelativeToolTip": "AjaxAuthDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T07:18:10.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\AjaxAuthDemo\\AjaxAuthDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "AjaxAuthDemo\\appsettings.json",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\AjaxAuthDemo\\AjaxAuthDemo\\appsettings.json",
+              "RelativeToolTip": "AjaxAuthDemo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-27T07:19:44.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\AjaxAuthDemo\\AjaxAuthDemo\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AjaxAuthDemo\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\AjaxAuthDemo\\AjaxAuthDemo\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "AjaxAuthDemo\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T07:16:10.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AjaxAuthDemo",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\AjaxAuthDemo\\AjaxAuthDemo\\AjaxAuthDemo.csproj",
+              "RelativeDocumentMoniker": "AjaxAuthDemo\\AjaxAuthDemo.csproj",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\AjaxAuthDemo\\AjaxAuthDemo\\AjaxAuthDemo.csproj",
+              "RelativeToolTip": "AjaxAuthDemo\\AjaxAuthDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-27T07:15:30.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\AjaxAuthDemo\\AjaxAuthDemo\\Models\\User.cs",
+              "RelativeDocumentMoniker": "AjaxAuthDemo\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\AjaxAuthDemo\\AjaxAuthDemo\\Models\\User.cs",
+              "RelativeToolTip": "AjaxAuthDemo\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T07:14:09.273Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

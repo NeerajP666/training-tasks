@@ -1,0 +1,22 @@
+﻿@model IEnumerable<ExpenseTracker2.Models.Category>
+
+<h2>Categories</h2>
+
+<a class="btn btn-success" href="/Category/Create">Add Category</a>
+
+<table class="table">
+    <tr>
+        <th>Name</th>
+        <th>Actions</th>
+    </tr>
+    @foreach (var c in Model)
+    {
+        <tr>
+            <td>@c.Name</td>
+            <td>
+                <a class="btn btn-primary" href="/Category/Edit/@c.Id">Edit</a>
+                <a class="btn btn-danger" href="/Category/Delete/@c.Id">Delete</a>
+            </td>
+        </tr>
+    }
+</table>

@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Neeraj\\source\\repos\\QuizMaster\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35DE657D-F2C4-4D2D-BF0B-372DEBB7D875}|QuizMaster\\QuizMaster.csproj|c:\\users\\neeraj\\source\\repos\\quizmaster\\quizmaster\\controllers\\attemptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35DE657D-F2C4-4D2D-BF0B-372DEBB7D875}|QuizMaster\\QuizMaster.csproj|solutionrelative:quizmaster\\controllers\\attemptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DE657D-F2C4-4D2D-BF0B-372DEBB7D875}|QuizMaster\\QuizMaster.csproj|c:\\users\\neeraj\\source\\repos\\quizmaster\\quizmaster\\controllers\\questioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35DE657D-F2C4-4D2D-BF0B-372DEBB7D875}|QuizMaster\\QuizMaster.csproj|solutionrelative:quizmaster\\controllers\\questioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DE657D-F2C4-4D2D-BF0B-372DEBB7D875}|QuizMaster\\QuizMaster.csproj|c:\\users\\neeraj\\source\\repos\\quizmaster\\quizmaster\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35DE657D-F2C4-4D2D-BF0B-372DEBB7D875}|QuizMaster\\QuizMaster.csproj|solutionrelative:quizmaster\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DE657D-F2C4-4D2D-BF0B-372DEBB7D875}|QuizMaster\\QuizMaster.csproj|c:\\users\\neeraj\\source\\repos\\quizmaster\\quizmaster\\controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35DE657D-F2C4-4D2D-BF0B-372DEBB7D875}|QuizMaster\\QuizMaster.csproj|solutionrelative:quizmaster\\controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DE657D-F2C4-4D2D-BF0B-372DEBB7D875}|QuizMaster\\QuizMaster.csproj|c:\\users\\neeraj\\source\\repos\\quizmaster\\quizmaster\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35DE657D-F2C4-4D2D-BF0B-372DEBB7D875}|QuizMaster\\QuizMaster.csproj|solutionrelative:quizmaster\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DE657D-F2C4-4D2D-BF0B-372DEBB7D875}|QuizMaster\\QuizMaster.csproj|c:\\users\\neeraj\\source\\repos\\quizmaster\\quizmaster\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35DE657D-F2C4-4D2D-BF0B-372DEBB7D875}|QuizMaster\\QuizMaster.csproj|solutionrelative:quizmaster\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DE657D-F2C4-4D2D-BF0B-372DEBB7D875}|QuizMaster\\QuizMaster.csproj|c:\\users\\neeraj\\source\\repos\\quizmaster\\quizmaster\\models\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35DE657D-F2C4-4D2D-BF0B-372DEBB7D875}|QuizMaster\\QuizMaster.csproj|solutionrelative:quizmaster\\models\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DE657D-F2C4-4D2D-BF0B-372DEBB7D875}|QuizMaster\\QuizMaster.csproj|c:\\users\\neeraj\\source\\repos\\quizmaster\\quizmaster\\dtos\\attemptdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35DE657D-F2C4-4D2D-BF0B-372DEBB7D875}|QuizMaster\\QuizMaster.csproj|solutionrelative:quizmaster\\dtos\\attemptdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DE657D-F2C4-4D2D-BF0B-372DEBB7D875}|QuizMaster\\QuizMaster.csproj|c:\\users\\neeraj\\source\\repos\\quizmaster\\quizmaster\\dtos\\answerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35DE657D-F2C4-4D2D-BF0B-372DEBB7D875}|QuizMaster\\QuizMaster.csproj|solutionrelative:quizmaster\\dtos\\answerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DE657D-F2C4-4D2D-BF0B-372DEBB7D875}|QuizMaster\\QuizMaster.csproj|c:\\users\\neeraj\\source\\repos\\quizmaster\\quizmaster\\quizmaster.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{35DE657D-F2C4-4D2D-BF0B-372DEBB7D875}|QuizMaster\\QuizMaster.csproj|solutionrelative:quizmaster\\quizmaster.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DE657D-F2C4-4D2D-BF0B-372DEBB7D875}|QuizMaster\\QuizMaster.csproj|c:\\users\\neeraj\\source\\repos\\quizmaster\\quizmaster\\models\\attempt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35DE657D-F2C4-4D2D-BF0B-372DEBB7D875}|QuizMaster\\QuizMaster.csproj|solutionrelative:quizmaster\\models\\attempt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DE657D-F2C4-4D2D-BF0B-372DEBB7D875}|QuizMaster\\QuizMaster.csproj|c:\\users\\neeraj\\source\\repos\\quizmaster\\quizmaster\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35DE657D-F2C4-4D2D-BF0B-372DEBB7D875}|QuizMaster\\QuizMaster.csproj|solutionrelative:quizmaster\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DE657D-F2C4-4D2D-BF0B-372DEBB7D875}|QuizMaster\\QuizMaster.csproj|c:\\users\\neeraj\\source\\repos\\quizmaster\\quizmaster\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{35DE657D-F2C4-4D2D-BF0B-372DEBB7D875}|QuizMaster\\QuizMaster.csproj|solutionrelative:quizmaster\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DE657D-F2C4-4D2D-BF0B-372DEBB7D875}|QuizMaster\\QuizMaster.csproj|c:\\users\\neeraj\\source\\repos\\quizmaster\\quizmaster\\models\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35DE657D-F2C4-4D2D-BF0B-372DEBB7D875}|QuizMaster\\QuizMaster.csproj|solutionrelative:quizmaster\\models\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DE657D-F2C4-4D2D-BF0B-372DEBB7D875}|QuizMaster\\QuizMaster.csproj|c:\\users\\neeraj\\source\\repos\\quizmaster\\quizmaster\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35DE657D-F2C4-4D2D-BF0B-372DEBB7D875}|QuizMaster\\QuizMaster.csproj|solutionrelative:quizmaster\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AttemptDto.cs",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\QuizMaster\\QuizMaster\\DTOs\\AttemptDto.cs",
+              "RelativeDocumentMoniker": "QuizMaster\\DTOs\\AttemptDto.cs",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\QuizMaster\\QuizMaster\\DTOs\\AttemptDto.cs",
+              "RelativeToolTip": "QuizMaster\\DTOs\\AttemptDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T10:59:38.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AttemptController.cs",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\QuizMaster\\QuizMaster\\Controllers\\AttemptController.cs",
+              "RelativeDocumentMoniker": "QuizMaster\\Controllers\\AttemptController.cs",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\QuizMaster\\QuizMaster\\Controllers\\AttemptController.cs",
+              "RelativeToolTip": "QuizMaster\\Controllers\\AttemptController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAswCUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T10:37:10.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuizController.cs",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\QuizMaster\\QuizMaster\\Controllers\\QuizController.cs",
+              "RelativeDocumentMoniker": "QuizMaster\\Controllers\\QuizController.cs",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\QuizMaster\\QuizMaster\\Controllers\\QuizController.cs",
+              "RelativeToolTip": "QuizMaster\\Controllers\\QuizController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T10:35:42.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Quiz.cs",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\QuizMaster\\QuizMaster\\Models\\Quiz.cs",
+              "RelativeDocumentMoniker": "QuizMaster\\Models\\Quiz.cs",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\QuizMaster\\QuizMaster\\Models\\Quiz.cs",
+              "RelativeToolTip": "QuizMaster\\Models\\Quiz.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T12:06:46.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\QuizMaster\\QuizMaster\\Models\\Question.cs",
+              "RelativeDocumentMoniker": "QuizMaster\\Models\\Question.cs",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\QuizMaster\\QuizMaster\\Models\\Question.cs",
+              "RelativeToolTip": "QuizMaster\\Models\\Question.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T12:07:08.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\QuizMaster\\QuizMaster\\Models\\User.cs",
+              "RelativeDocumentMoniker": "QuizMaster\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\QuizMaster\\QuizMaster\\Models\\User.cs",
+              "RelativeToolTip": "QuizMaster\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T12:06:07.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuestionController.cs",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\QuizMaster\\QuizMaster\\Controllers\\QuestionController.cs",
+              "RelativeDocumentMoniker": "QuizMaster\\Controllers\\QuestionController.cs",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\QuizMaster\\QuizMaster\\Controllers\\QuestionController.cs",
+              "RelativeToolTip": "QuizMaster\\Controllers\\QuestionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T10:36:38.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AnswerDto.cs",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\QuizMaster\\QuizMaster\\DTOs\\AnswerDto.cs",
+              "RelativeDocumentMoniker": "QuizMaster\\DTOs\\AnswerDto.cs",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\QuizMaster\\QuizMaster\\DTOs\\AnswerDto.cs",
+              "RelativeToolTip": "QuizMaster\\DTOs\\AnswerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T10:59:56.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\QuizMaster\\QuizMaster\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "QuizMaster\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\QuizMaster\\QuizMaster\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "QuizMaster\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAIwD0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T10:35:04.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QuizMaster",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\QuizMaster\\QuizMaster\\QuizMaster.csproj",
+              "RelativeDocumentMoniker": "QuizMaster\\QuizMaster.csproj",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\QuizMaster\\QuizMaster\\QuizMaster.csproj",
+              "RelativeToolTip": "QuizMaster\\QuizMaster.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-23T10:43:34.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\QuizMaster\\QuizMaster\\appsettings.json",
+              "RelativeDocumentMoniker": "QuizMaster\\appsettings.json",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\QuizMaster\\QuizMaster\\appsettings.json",
+              "RelativeToolTip": "QuizMaster\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-23T10:30:54.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\QuizMaster\\QuizMaster\\Program.cs",
+              "RelativeDocumentMoniker": "QuizMaster\\Program.cs",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\QuizMaster\\QuizMaster\\Program.cs",
+              "RelativeToolTip": "QuizMaster\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T10:28:02.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Answer.cs",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\QuizMaster\\QuizMaster\\Models\\Answer.cs",
+              "RelativeDocumentMoniker": "QuizMaster\\Models\\Answer.cs",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\QuizMaster\\QuizMaster\\Models\\Answer.cs",
+              "RelativeToolTip": "QuizMaster\\Models\\Answer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T12:17:31.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Attempt.cs",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\QuizMaster\\QuizMaster\\Models\\Attempt.cs",
+              "RelativeDocumentMoniker": "QuizMaster\\Models\\Attempt.cs",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\QuizMaster\\QuizMaster\\Models\\Attempt.cs",
+              "RelativeToolTip": "QuizMaster\\Models\\Attempt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T12:17:06.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Neeraj\\source\\repos\\QuizMaster\\QuizMaster\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "QuizMaster\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Neeraj\\source\\repos\\QuizMaster\\QuizMaster\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "QuizMaster\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T08:59:40.483Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

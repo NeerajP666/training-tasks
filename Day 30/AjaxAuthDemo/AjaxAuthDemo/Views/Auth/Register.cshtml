@@ -1,0 +1,25 @@
+﻿<div>
+    <input type="text" id="username" placeholder="Username">
+    <input type="password" id="password" placeholder="Password">
+    <button id="registerBtn">Register</button>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    $('#registerBtn').click(function () {
+        var data = {
+            username: $('#username').val(),
+            password: $('#password').val()
+        };
+        $.ajax({
+            url: '/Auth/Register',
+            method: 'POST',
+            contentType: 'application/json',
+            data: JSON.stringify(data),
+            success: function (res) {
+                alert(res.message);
+                window.location.href='/Home/Index'
+            }
+        });
+    });
+</script>

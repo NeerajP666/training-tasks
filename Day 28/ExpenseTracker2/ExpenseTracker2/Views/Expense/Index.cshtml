@@ -1,0 +1,28 @@
+﻿@model IEnumerable<ExpenseTracker2.Models.Expense>
+
+<h2>Expenses</h2>
+
+<a class="btn btn-success" href="/Expense/Create">Add Expense</a>
+
+<table class="table">
+    <tr>
+        <th>Title</th>
+        <th>Amount</th>
+        <th>Date</th>
+        <th>Category</th>
+        <th>Actions</th>
+    </tr>
+    @foreach (var e in Model)
+    {
+        <tr>
+            <td>@e.Title</td>
+            <td>@e.Amount</td>
+            <td>@e.Date.ToShortDateString()</td>
+            <td>@e.Category?.Name</td>
+            <td>
+                <a class="btn btn-primary" href="/Expense/Edit/@e.Id">Edit</a>
+                <a class="btn btn-danger" href="/Expense/Delete/@e.Id">Delete</a>
+            </td>
+        </tr>
+    }
+</table>
